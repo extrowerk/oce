@@ -27,6 +27,7 @@
 #include <TopTools_IndexedDataMapOfShapeListOfShape.hxx>
 class BRepAlgo_AsDes;
 class TopoDS_Face;
+class TopoDS_Edge;
 class BRepOffset_Offset;
 
 

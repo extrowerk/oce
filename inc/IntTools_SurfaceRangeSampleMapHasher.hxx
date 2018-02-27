@@ -22,6 +22,8 @@
 
 #include <Standard_Integer.hxx>
 #include <Standard_Boolean.hxx>
+#include <IntTools_SurfaceRangeSample.hxx>
+
 class IntTools_SurfaceRangeSample;
 
 
